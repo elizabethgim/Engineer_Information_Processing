@@ -1,0 +1,14 @@
+# 02. 현행 시스템 분석
+## 1. 현행 시스템 파악
+
+### 3) 소프트웨어 아키텍처
+
+② 소프트웨어 아키텍처 4+1 뷰 구성 요소  
+논리 뷰, 구현 뷰, 프로세스 뷰, 배포 뷰
+
+### 4) 소프트웨어 아키텍처 패턴
+계층화 패턴(Layered Pattern)  
+클라이언트-서버 패턴(Client-Server Pattern)  
+파이프-필터 패턴(Pipe-Filter Pattern)  
+브로커 패턴(Broker Pattern)  
+모델-뷰-컨트롤러 패턴(Model View Controller Pattern)  
