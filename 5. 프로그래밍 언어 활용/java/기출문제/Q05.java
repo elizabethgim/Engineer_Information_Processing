@@ -1,5 +1,3 @@
-package engineer;
-
 class Parent2{
     public void show(){
         System.out.println("Parent");
